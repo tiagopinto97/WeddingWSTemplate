@@ -8,6 +8,8 @@ The goal for this project was:
 - Allowed to show the chapelry and the reception map for guest to use
 - Allowed a brief schedule
 - Store the data on localStorage to avoid multiple similar requests
+- Multi language support
+- Change between invites
 - A single project that could be easly hosted on Vercels
 
 In the repo you will find a invitesList.json that has 3 properties (code, is_male and guests) wich represent the invite data.
@@ -20,6 +22,8 @@ There is a pages/api/encryptData.tsx_ ( with this extension to not be deployed o
 the used .env vars are ENCRYPTION_KEY and IV (which are sampled on the repo, but you should not commit private keys to a public repo)
 
 To run it should be as simple as npm install and npm run dev
+
+[Online Demo](https://wedding-ws-template.vercel.app)
 
 ## Default NextJS readme for reference
 
