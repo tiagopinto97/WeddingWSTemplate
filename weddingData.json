@@ -1,0 +1,53 @@
+{
+    "title": "John & Doe",
+    "date": "2026-06-01T12:30:00",
+    "guest_confirmation_date": "2026-04-31",
+    "entry_bg": "",
+    "headline": {
+        "line_1": {
+            "pt": "Depois de muitos momentos especiais juntos,",
+            "en": "After many special moments together,"
+        },
+        "line_2": {
+            "pt": "estamos prontos para começar um novo capítulo e celebrar o nosso amor.",
+            "en": "we are ready to begin a new chapter and celebrate our love."
+        }
+    },
+    "chapelry": {
+        "bg": "",
+        "name": "Igreja",
+        "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14618.196420506718!2d-8.681068360068688!3d39.62501429155512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd189d2c7306814f%3A0x39f1b0b3eb5e16e4!2zU2FudHXDoXJpbyBkZSBGw6F0aW1h!5e0!3m2!1spt-PT!2spt!4v1729157371421!5m2!1spt-PT!2spt"
+    },
+    "reception": {
+        "bg": "",
+        "name": "Restaurante",
+        "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391918.59287977073!2d-8.924961374169735!3d39.87385802681017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2300db2471a9db%3A0x125b7c191698f4f4!2sRei%20dos%20Leit%C3%B5es!5e0!3m2!1spt-PT!2spt!4v1729159215845!5m2!1spt-PT!2spt"
+    },
+    "schedule": {
+        "bg": "",
+        "pt": [
+            {
+                "time": "15h",
+                "title": "Missa",
+                "description": "Início da cerimónia de casamento"
+            },
+            {
+                "time": "17h30 (Previsão)",
+                "title": "Copo de Água",
+                "description": "Início da celebração do casamento"
+            }
+        ],
+        "en": [
+            {
+                "time": "3 PM",
+                "title": "Mass",
+                "description": "Start of the wedding ceremony"
+            },
+            {
+                "time": "5:30 PM (Estimated)",
+                "title": "Reception",
+                "description": "Start of the wedding celebration "
+            }
+        ]
+    }
+}

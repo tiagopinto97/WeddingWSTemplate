@@ -34,8 +34,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-cryptoEncrypt.txt
-.env
-invitesList.json
-weddingData.json
 pages/api/encryptData.tsx

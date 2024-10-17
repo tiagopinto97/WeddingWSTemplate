@@ -51,7 +51,7 @@ const CodeInputModal = (props: any) => {
         }
       })
     }
-  }, []);
+  }, [router]);
 
 
   return <>

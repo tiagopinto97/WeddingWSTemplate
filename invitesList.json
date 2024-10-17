@@ -1,0 +1,79 @@
+[
+    {
+        "code": "500617",
+        "is_male": 1,
+        "guests": [
+            "Emma",
+            "James"
+        ]
+    },
+    {
+        "code": "648838",
+        "is_male": 0,
+        "guests": [
+            "Patrícia"
+        ]
+    },
+    {
+        "code": "649780",
+        "is_male": 0,
+        "guests": [
+            "Claudia"
+        ]
+    },
+    {
+        "code": "826514",
+        "is_male": 1,
+        "guests": [
+            "Emma",
+            "David"
+        ]
+    },
+    {
+        "code": "492761",
+        "is_male": 1,
+        "guests": [
+            "David",
+            "Rui"
+        ]
+    },
+    {
+        "code": "684056",
+        "is_male": 1,
+        "guests": [
+            "José",
+            "Rui"
+        ]
+    },
+    {
+        "code": "970254",
+        "is_male": 1,
+        "guests": [
+            "Diogo",
+            "John"
+        ]
+    },
+    {
+        "code": "336206",
+        "is_male": 1,
+        "guests": [
+            "Carlos"
+        ]
+    },
+    {
+        "code": "115547",
+        "is_male": 1,
+        "guests": [
+            "Maria",
+            "James",
+            "Claudia"
+        ]
+    },
+    {
+        "code": "100957",
+        "is_male": 1,
+        "guests": [
+            "Michael"
+        ]
+    }
+]

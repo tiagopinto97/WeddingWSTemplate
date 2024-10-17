@@ -1,0 +1,10 @@
+import { encrypt } from '../../helpers/crypt';
+import InvitesList from '../../invitesList.json';
+import WeddingData from '../../weddingData.json';
+const fs = require('fs');
+// API Route
+export default function handler(req, res) {
+    fs.writeFileSync('./public/data1.mt', encrypt(JSON.stringify(InvitesList)));
+    fs.writeFileSync('./public/data2.mt', encrypt(JSON.stringify(WeddingData)));
+    res.status(200).json({ encrypted: true });
+}
