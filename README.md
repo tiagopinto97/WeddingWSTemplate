@@ -1,3 +1,28 @@
+## Wedding WebSite Template
+
+This is a simple template for a digital wedding invite made using Next.JS
+
+The goal for this project was:
+- Make wedding invite template
+- Allowed to have multiple invite codes that are used to customize the invite to show the names of the guest
+- Allowed to show the chapelry and the reception map for guest to use
+- Allowed a brief schedule
+- Store the data on localStorage to avoid multiple similar requests
+- A single project that could be easly hosted on Vercels
+
+In the repo you will find a invitesList.json that has 3 properties (code, is_male and guests) wich represent the invite data.
+In weddingData.json you will have all the available fields for the invite data.
+
+Those files are not used directly by the site, but used as a reference to be encrypted and the moved to public as data1 and data2
+
+There is a pages/api/encryptData.tsx_ ( with this extension to not be deployed on vercel) that is a route that reads the above mentioned json files and encrypts them to data1 and data2, use it offline to encode the files and don't deploy it.
+
+the used .env vars are ENCRYPTION_KEY and IV (which are sampled on the repo, but you should not commit private keys to a public repo)
+
+To run it should be as simple as npm install and npm run dev
+
+## Default NextJS readme for reference
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -4,7 +4,7 @@ import { loadFile } from "../../helpers/loadFile";
 // API Route
 export default function handler(req, res) {
     // Load data
-    const encryptedInvites = loadFile('data1.mt')
+    const encryptedInvites = loadFile('data1')
 
     try {
         // Decrypt data
