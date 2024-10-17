@@ -1,0 +1,45 @@
+{
+    "test": "Test",
+    "_and_": "e",
+    "load_invite": "Carregar Convite",
+    "invite_code": "Código Convite",
+    "insert_invite_code": "Insira o seu código de convite",
+    "open_invite": "Abrir Convite",
+    "insert_valid_code": "Insira um código válido",
+    "invalid_invite_code": "Código de convite inválido",
+    "invalid_invite_code_message": "O código de convite inserido é inválido",
+    "go_back": "Voltar",
+    "schedule": {
+        "title": "Horário"
+    },
+    "header": {
+        "home": "Início",
+        "bride": "Noiva",
+        "groom": "Noivo",
+        "chapelry": "Igreja",
+        "reception": "Receção",
+        "schedule": "Horário",
+        "change_invite": "Alterar convite"
+    },
+    "countdown": {
+        "days_one": "Dia",
+        "days_zero": "Dias",
+        "days_other": "Dias",
+        "hours_one": "Hora",
+        "hours_zero": "Horas",
+        "hours_other": "Horas",
+        "minutes_one": "Minuto",
+        "minutes_zero": "Minutos",
+        "minutes_other": "Minutos",
+        "seconds_one": "Segundo",
+        "seconds_zero": "Segundos",
+        "seconds_other": "Segundos"
+    },
+    "rsvp_by": "Confirmações até",
+    "your_presence_is_important_one": "A sua presença é importante",
+    "your_presence_is_important_other": "A vossa presença é importante",
+    "honored_to_invite_male_one": "Temos a honra de o convidar para o nosso casamento.",
+    "honored_to_invite_female_one": "Temos a honra de a convidar para o nosso casamento.",
+    "honored_to_invite_male_other": "Temos a honra de vos convidar para o nosso casamento.",
+    "honored_to_invite_female_other": "Temos a honra de vos convidar para o nosso casamento."
+}

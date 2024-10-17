@@ -1,0 +1,45 @@
+{
+    "test":"Test",
+    "_and_": "and",
+    "load_invite": "Load Invite",
+    "invite_code": "Invite Code",
+    "insert_invite_code": "Insert your invite code",
+    "open_invite": "Open Invite",
+    "insert_valid_code": "Insert valid code",
+    "invalid_invite_code": "Invalid invite code",
+    "invalid_invite_code_message": "The inserted invite code is invalid.",
+    "go_back": "Go Back",
+    "schedule": {
+        "title": "Schedule"
+    },
+    "header": {
+        "home": "Home",
+        "bride": "Bride",
+        "groom": "Groom",
+        "chapelry": "Chapelry",
+        "reception": "Reception",
+        "schedule": "Schedule",
+        "change_invite": "Change Invite"
+    },
+    "countdown": {
+        "days_one": "Day",
+        "days_zero": "Days",
+        "days_other": "Days",
+        "hours_one": "Hour",
+        "hourszero": "Hours",
+        "hours_other": "Hours",
+        "minutes_one": "Minute",
+        "minutezero": "Minutes",
+        "minutes_other": "Minutes",
+        "seconds_one": "Second",
+        "seconds_zero": "Seconds",
+        "seconds_other": "Seconds"
+    },
+    "rsvp_by": "RSVP by",
+    "your_presence_is_important_one": "Your presence is important",
+    "your_presence_is_important_other": "Your presence is important",
+    "honored_to_invite_male_one": "We are honored to invite you to our wedding.",
+    "honored_to_invite_female_one": "We are honored to invite you to our wedding.",
+    "honored_to_invite_male_other": "We are honored to invite you to our wedding.",
+    "honored_to_invite_female_other": "We are honored to invite you to our wedding."
+}
